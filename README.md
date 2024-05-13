@@ -1,6 +1,3 @@
-# Writing the README content to a Markdown file
-
-readme_content = """
 # News Aggregator API
 
 This Node.js project implements a simple News Aggregator API using Express.js. It features user registration and login, personalized news fetching based on user preferences, and basic in-memory data storage. The API utilizes JWT for authentication and bcrypt for password hashing.
